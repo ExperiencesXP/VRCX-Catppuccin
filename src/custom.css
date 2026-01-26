@@ -50,7 +50,7 @@
     background-color: var(--surface0) !important;
     border-color: var(--surface0) !important;
 }
-.x-friend-item:hover{background-color: var(--mauve);}
+.x-friend-item:hover{background-color: var(--surface1);}
 .el-menu-item.is-active::before{background: var(--mauve);}
 .el-menu-item:hover{background-color: var(--surface1);}
 .bottom-button:hover {
