@@ -37,6 +37,7 @@
 ## Installation
 
 > [!IMPORTANT]
+> Doesn't work on the newest version: 2026.01.28 currently. As of right now 2026.01.04 is the last supported version.
 > Set VRCX's theme to **Dark** in Settings → Appearance for the intended appearance. This theme is designed for dark mode and may not display correctly with other themes.
 
 ### Method 1: Direct File Placement
